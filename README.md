@@ -11,18 +11,18 @@ Essa vivência prática reforça o quanto quero construir **uma carreira sólida
 Meu foco é evoluir continuamente, entender novas tecnologias, resolver problemas reais e contribuir com soluções que façam diferença no dia a dia das pessoas e das empresas.
 
 <p align="left">
-    <a href="https://github.com/thayanneh?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Thaymelva?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/thayanneh?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Thaymelva?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/thayanneh?tab=followers">
+    <a href="https://github.com/Thaymelva?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/thayanneh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Thaymelva?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -51,13 +51,13 @@ Meu foco é evoluir continuamente, entender novas tecnologias, resolver problema
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=thayanneh&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Thaymelva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
       align="left" 
       alt="Linguagens mais usadas" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayanneh&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaymelva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>

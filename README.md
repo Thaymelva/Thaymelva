@@ -1,9 +1,9 @@
-# 👩🏻‍💻 Thaynne Vaizemann  
+# 👩🏻‍💻 Thayanne Vaizemann  
 ### *"Construindo meu futuro"*  
 
 **`Desenvolvedora em Formação`**
 
-Me chamo **Thaynne Vaizemann**, tenho 24 anos e sou apaixonada pelo universo da tecnologia — um mundo enorme, cheio de possibilidades, que está sempre evoluindo, e no qual eu busco aprender um pouco mais todos os dias.
+Me chamo **Thayanne Vaizemann**, tenho 24 anos e sou apaixonada pelo universo da tecnologia — um mundo enorme, cheio de possibilidades, que está sempre evoluindo, e no qual eu busco aprender um pouco mais todos os dias.
 
 Atualmente curso **Ciência da Computação** e já atuo diretamente com tecnologia, criando soluções que envolvem desenvolvimento, automação, RFID, controle de estoque e sistemas aplicados ao ambiente industrial.  
 Essa vivência prática reforça o quanto quero construir **uma carreira sólida na área da tecnologia, principalmente na programação**, que é onde realmente me encontro e me realizo.

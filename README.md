@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Thayanne Vaizemann  
-### *"Construindo meu futuro"*  
+### *"Construindo meu futuro na tecnologia"*  
 
 **`Desenvolvedora em Formação`**
 
